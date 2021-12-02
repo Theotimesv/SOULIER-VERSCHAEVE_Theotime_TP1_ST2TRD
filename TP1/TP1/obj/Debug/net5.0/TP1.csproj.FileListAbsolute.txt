@@ -1,0 +1,16 @@
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\TP1.exe
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\TP1.deps.json
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\TP1.runtimeconfig.json
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\TP1.runtimeconfig.dev.json
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\TP1.dll
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\ref\TP1.dll
+C:\Users\theot\RiderProjects\TP1\TP1\bin\Debug\net5.0\TP1.pdb
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.csprojAssemblyReference.cache
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.AssemblyInfoInputs.cache
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.AssemblyInfo.cs
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.dll
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\ref\TP1.dll
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.pdb
+C:\Users\theot\RiderProjects\TP1\TP1\obj\Debug\net5.0\TP1.genruntimeconfig.cache
